@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the implementation of public clouds in financial institutions and contributing to CNCF open-source project. 
+- 📫 How to reach me: https://www.linkedin.com/in/mateuszpruchniak/
+
+
+Thanks for visiting!
+
 <!--
 **mateuszpruchniak/mateuszpruchniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
